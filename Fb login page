@@ -1,1 +1,22 @@
-
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./output.css" rel="stylesheet">
+</head>
+<body><div class="container mx-auto flex justify-center flex-col items-center h-[30vh] bg-gray-100 sm:h-auto ">
+  <div class="fb flex items-center ">
+    <img class="h-4 w-20 sm:h-[30px] w-50 md:h-[70px] w-60" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" alt="">
+  </div>
+<div class="login border flex flex-col items-center space-y-1 sm:space-y-3 md:space-y-5 lg:space-y-7 w-30 sm:w-60 md:w-72 lg:w-[26rem] space-x-3 bg-white rounded-md border-gray-300 mb-0 sm:mb-3 md:mb-5 lg:mb[6] shadow-xl  ">
+    <h2 class="text-[6px] items-center leading-5 sm:leading-8 md:leading-12 lg:leading-20 m-0 sm:text-[15px] md:text-[20px]">Log in to Facebook</h2>
+    <input class="border-1 border-gray-500 w-28 sm:w-52 md:w-56 lg:w-96 text-[5px] sm:text-[13px] md:text-[15px] lg:text-[17px] mx-3 sm:mx-6 md:mx-12 h-3 sm:h-6 md:h-12 text-gray-700 font-medium rounded-md p-0 sm:p-1 md:p-3 lg:p-4" type="text" placeholder="Email address and phone number">
+    <input class="border-1 border-gray-500 w-28 sm:w-60 md:w-56 lg:w-96 text-[5px] mx-3 h-3 sm:h-6 md:h-12 text-gray-700 font-medium rounded-md text-[5px] sm:text-[15px] md:text-[15px] lg:text-[17px] p-0 sm:p-1 md:p-3 lg:p-4" type="password " placeholder="Password">
+    <button class="bg-blue-500 hover:bg-blue-600 cursor-pointer font-bold w-28 sm:w-60 md:w-56 lg:w-96 text-[5px]  sm:text-[15px] md:text-[20px] mx-3 h-4 sm:h-6 md:h-12 text-white font-bold rounded-md">Log in</button>
+    <span class="text-[4px] sm:text-[8px] md:text-[15px] text-blue-600 leading-1 sm:leading-2.5 md:leading-5 lg:leading-10 hover:underline cursor-pointer  ">Forgotten account? Sign up for Facebook</span>
+    
+  </div>
+  </div>
+</body>
+</html>
