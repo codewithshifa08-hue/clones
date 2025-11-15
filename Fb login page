@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="./output.css" rel="stylesheet">
 </head>
-<body><div class="container mx-auto flex justify-center flex-col items-center h-[30vh] bg-gray-100 sm:h-auto ">
+<body><div class="container w-full mx-auto flex justify-center flex-col items-center h-[30vh] bg-gray-100 sm:h-auto ">
   <div class="fb flex items-center ">
     <img class="h-4 w-20 sm:h-[30px] w-50 md:h-[70px] w-60" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" alt="">
   </div>
